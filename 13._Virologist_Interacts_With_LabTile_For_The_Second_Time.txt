@@ -1,0 +1,7 @@
+AddTile t1 lab
+AddGeneticCode stun t1
+AddScientist s1 t1
+AddGeneticCodeToScientist stun s1
+ScientistInfo s1
+ScientistInteracts s1
+ScientistInfo s1

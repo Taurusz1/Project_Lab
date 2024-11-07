@@ -1,0 +1,13 @@
+t1	normal	t2	none	none
+t2	infectedlab	t1	none	s1
+
+Scientist ID: s1
+Gear:
+Genetic codes:
+Agents:
+Active agents:
+immune 4
+bearDance 1
+Material in pocket: 0
+Material in bag: 0
+

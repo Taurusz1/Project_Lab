@@ -1,0 +1,7 @@
+AddTile t1 normal
+AddScientist s1 t1
+AddGeneticCodeToScientist vitus s1
+AddActiveAgentToScientist vitus s1
+AddActiveAgentToScientist stun s1
+AddActiveAgentToScientist forget s1
+ScientistInfo s1

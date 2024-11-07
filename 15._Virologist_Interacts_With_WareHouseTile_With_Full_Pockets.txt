@@ -1,0 +1,7 @@
+AddTile t1 warehouse
+AddMaterial t1
+AddScientist s1 t1
+AddMaterialToScientist 50 s1
+ScientistInfo s1
+ScientistInteracts s1
+ScientistInfo s1

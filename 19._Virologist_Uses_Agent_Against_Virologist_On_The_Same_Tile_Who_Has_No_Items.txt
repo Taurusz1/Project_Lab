@@ -1,0 +1,7 @@
+AddTile t1 normal
+AddScientist s1 t1
+AddScientist s2 t1
+AddAgentToScientist forget s1
+UseAgent s1 s2 forget
+ScientistInfo s1
+ScientistInfo s2

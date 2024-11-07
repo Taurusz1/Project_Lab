@@ -1,0 +1,6 @@
+AddTile t1 normal
+AddTile t2 normal
+SetNeighbours t1 t2
+AddScientist s1 t1
+ScientistMoves s1 0
+ListAllTiles

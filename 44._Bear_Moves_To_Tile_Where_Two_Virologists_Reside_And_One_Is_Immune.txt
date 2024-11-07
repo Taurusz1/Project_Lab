@@ -1,0 +1,13 @@
+AddTile t1 normal
+AddTile t2 normal
+SetNeighbours t1 t2
+AddScientist s1 t2
+AddScientist s2 t1
+AddScientist s3 t2
+AddActiveAgentToScientist bear s2
+AddActiveAgentToScientist immune s3
+ScientistMoves s2 0
+ListAllTiles
+ScientistInfo s1
+ScientistInfo s2
+ScientistInfo s3

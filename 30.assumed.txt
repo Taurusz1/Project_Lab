@@ -1,0 +1,10 @@
+Scientist ID: s1
+Gear:
+Genetic codes:
+vitusCode 4
+Agents:
+vitus
+Active agents:
+Material in pocket: 6
+Material in bag: 0
+

@@ -1,0 +1,7 @@
+AddTile t1 normal
+AddScientist s1 t1
+AddScientist s2 t1
+AddAgentToScientist stun s1
+AddActiveAgentToScientist immune s2
+UseAgent s1 s2 stun
+ScientistInfo s2

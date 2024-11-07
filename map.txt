@@ -1,0 +1,161 @@
+AddTile t1 normal
+AddTile t2 normal
+AddTile t3 normal
+AddTile t4 normal
+AddTile t5 normal
+AddTile t6 normal
+AddTile t7 normal
+AddTile t8 normal
+AddTile t9 normal
+AddTile t10 normal
+AddTile t11 normal
+AddTile t12 normal
+AddTile t13 normal
+AddTile t14 normal
+AddTile t15 normal
+AddTile wh1 warehouse
+AddTile wh2 warehouse
+AddTile wh3 warehouse
+AddTile wh4 warehouse
+AddTile wh5 warehouse
+AddTile wh6 warehouse
+AddTile wh7 warehouse
+AddTile wh8 warehouse
+AddTile wh9 warehouse
+AddTile wh10 warehouse
+AddTile wh11 warehouse
+AddTile wh12 warehouse
+AddTile wh13 warehouse
+AddTile wh14 warehouse
+AddTile wh15 warehouse
+AddTile lab1 lab
+AddTile lab2 lab
+AddTile lab3 lab
+AddTile lab4 lab
+AddTile lab5 lab
+AddTile lab6 lab
+AddTile lab7 lab
+AddTile lab8 lab
+AddTile b1 bunker
+AddTile b2 bunker
+AddTile b3 bunker
+AddTile b4 bunker
+AddTile b5 bunker
+AddTile b6 bunker
+AddTile b7 bunker
+AddTile b8 bunker
+AddTile b9 bunker
+AddTile b10 bunker
+AddTile b11 bunker
+AddTile inf1 infectedlab
+AddTile inf2 infectedlab
+SetNeighbours b1 t1
+SetNeighbours t1 wh1
+SetNeighbours t1 wh9
+SetNeighbours wh1 t2
+SetNeighbours t2 wh2
+SetNeighbours t2 inf1
+SetNeighbours wh2 wh3
+SetNeighbours wh3 inf1
+SetNeighbours inf1 lab1
+SetNeighbours inf1 t3
+SetNeighbours inf1 t10
+SetNeighbours wh9 t10
+SetNeighbours wh9 t11
+SetNeighbours t10 t11
+SetNeighbours lab1 b2
+SetNeighbours lab1 b3
+SetNeighbours lab1 t4
+SetNeighbours t3 t4
+SetNeighbours t10 wh8
+SetNeighbours t4 wh8
+SetNeighbours b3 wh4
+SetNeighbours b9 t5
+SetNeighbours wh4 lab2
+SetNeighbours b4 lab2
+SetNeighbours b5 lab2
+SetNeighbours lab2 wh5
+SetNeighbours wh5 lab3
+SetNeighbours wh4 t5
+SetNeighbours lab3 t5
+SetNeighbours t5 wh7
+SetNeighbours lab3 b6
+SetNeighbours lab3 t6
+SetNeighbours t6 t7
+SetNeighbours t6 t8
+SetNeighbours t7 t8
+SetNeighbours wh7 lab4
+SetNeighbours wh7 b8
+SetNeighbours lab4 t7
+SetNeighbours lab4 t8
+SetNeighbours wh6 t7
+SetNeighbours wh6 t9
+SetNeighbours t8 t9
+SetNeighbours lab4 lab5
+SetNeighbours lab5 t9
+SetNeighbours b7 lab5
+SetNeighbours lab5 b8
+SetNeighbours wh6 wh14
+SetNeighbours wh14 wh15
+SetNeighbours wh14 wh13
+SetNeighbours lab5 t13
+SetNeighbours wh8 b8
+SetNeighbours t11 b10
+SetNeighbours t4 b9
+SetNeighbours wh8 wh15
+SetNeighbours b10 t12
+SetNeighbours wh10 lab8
+SetNeighbours lab8 t12
+SetNeighbours lab8 inf2
+SetNeighbours lab8 wh11
+SetNeighbours t12 t13
+SetNeighbours t13 t14
+SetNeighbours t14 wh15
+SetNeighbours wh10 inf2
+SetNeighbours inf2 wh12
+SetNeighbours wh12 lab7
+SetNeighbours inf2 lab7
+SetNeighbours lab6 lab7
+SetNeighbours lab7 t14
+SetNeighbours wh11 lab6
+SetNeighbours t13 lab6
+SetNeighbours lab6 t15
+SetNeighbours t15 b11
+SetNeighbours t15 wh13
+AddMaterial wh1
+AddMaterial wh2
+AddMaterial wh3
+AddMaterial wh4
+AddMaterial wh5
+AddMaterial wh6
+AddMaterial wh7
+AddMaterial wh8
+AddMaterial wh9
+AddMaterial wh10
+AddMaterial wh11
+AddMaterial wh12
+AddMaterial wh13
+AddMaterial wh14
+AddMaterial wh15
+AddGearToBunker axe b1
+AddGearToBunker gloves b2
+AddGearToBunker cloak b3
+AddGearToBunker axe b4
+AddGearToBunker bag b5
+AddGearToBunker cloak b6
+AddGearToBunker gloves b7
+AddGearToBunker axe b8
+AddGearToBunker bag b9
+AddGearToBunker bag b10
+AddGearToBunker gloves b11
+AddGeneticCode stun lab1
+AddGeneticCode forget lab2
+AddGeneticCode immune lab3
+AddGeneticCode vitus lab4
+AddGeneticCode stun lab5
+AddGeneticCode forget lab6
+AddGeneticCode vitus lab7
+AddGeneticCode immune lab8
+AddGeneticCode forget inf1
+AddGeneticCode vitus inf2
+ListAllTiles

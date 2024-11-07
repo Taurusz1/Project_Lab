@@ -1,0 +1,31 @@
+t1	normal	t2	none	none
+t2	normal	t1	none	s1,s3,s2
+
+Scientist ID: s1
+Gear:
+Genetic codes:
+Agents:
+Active agents:
+bearDance 1
+Material in pocket: 0
+Material in bag: 0
+
+Scientist ID: s2
+Gear:
+Genetic codes:
+Agents:
+Active agents:
+bearDance 1
+Material in pocket: 0
+Material in bag: 0
+
+Scientist ID: s3
+Gear:
+Genetic codes:
+Agents:
+Active agents:
+immune 4
+bearDance 1
+Material in pocket: 0
+Material in bag: 0
+

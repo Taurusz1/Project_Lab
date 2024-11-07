@@ -1,0 +1,18 @@
+Scientist ID: s1
+Gear:
+Genetic codes:
+Agents:
+Active agents:
+forget 1
+Material in pocket: 0
+Material in bag: 0
+
+Scientist ID: s2
+Gear:
+gloves 2
+Genetic codes:
+Agents:
+Active agents:
+Material in pocket: 0
+Material in bag: 0
+

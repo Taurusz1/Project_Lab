@@ -1,0 +1,7 @@
+AddTile t1 lab
+AddScientist s1 t1
+AddGeneticCode immune t1
+AddGeneticCodeToScientist stun s1
+AddGeneticCodeToScientist vitus s1
+AddGeneticCodeToScientist forget s1
+ScientistInteracts s1

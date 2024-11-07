@@ -1,0 +1,10 @@
+Scientist ID: s1
+Gear:
+Genetic codes:
+forgetCode 1
+Agents:
+forget
+Active agents:
+Material in pocket: 9
+Material in bag: 0
+

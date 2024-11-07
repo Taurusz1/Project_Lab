@@ -1,0 +1,10 @@
+Scientist ID: s1
+Gear:
+Genetic codes:
+immuneCode 2
+Agents:
+immune
+Active agents:
+Material in pocket: 8
+Material in bag: 0
+

@@ -1,0 +1,12 @@
+AddTile t1 normal
+AddScientist s1 t1
+AddScientist s2 t1
+AddScientist s3 t1
+AddGearToScientist axe s1
+AddActiveAgentToScientist bear s2
+AddActiveAgentToScientist bear s3
+UseAxe s1 s2
+UseAxe s1 s3
+ScientistInfo s1
+ScientistInfo s2
+ScientistInfo s3

@@ -1,0 +1,9 @@
+AddTile t1 bunker
+AddGearToBunker axe t1
+AddScientist s1 t1
+AddGearToScientist axe s1
+AddGearToScientist axe s1
+AddGearToScientist axe s1
+ScientistInfo s1
+ScientistInteracts s1
+ScientistInfo s1

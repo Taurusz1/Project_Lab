@@ -1,0 +1,8 @@
+AddTile t1 normal
+AddScientist s1 t1
+AddScientist s2 t1
+AddGearToScientist gloves s2
+AddActiveAgentToScientist stun s2
+StealGear s1 s2
+ScientistInfo s1
+ScientistInfo s2

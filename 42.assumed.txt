@@ -1,0 +1,9 @@
+Scientist ID: s1
+Gear:
+bag infinite
+Genetic codes:
+Agents:
+Active agents:
+Material in pocket: 0
+Material in bag: 0
+

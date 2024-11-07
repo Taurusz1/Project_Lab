@@ -1,0 +1,9 @@
+Scientist ID: s2
+Gear:
+Genetic codes:
+Agents:
+Active agents:
+stun 3
+Material in pocket: 60
+Material in bag: 0
+

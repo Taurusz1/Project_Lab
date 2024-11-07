@@ -1,0 +1,10 @@
+Scientist ID: s1
+Gear:
+axe 0
+Genetic codes:
+Agents:
+Active agents:
+Material in pocket: 0
+Material in bag: 0
+
+s2 Scientist ID doesn't exists

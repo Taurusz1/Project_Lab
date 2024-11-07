@@ -1,0 +1,6 @@
+AddTile t1 normal
+AddScientist s1 t1
+AddGeneticCodeToScientist forget s1
+AddMaterialToScientist 10 s1
+CraftAgent s1 forgetCode
+ScientistInfo s1

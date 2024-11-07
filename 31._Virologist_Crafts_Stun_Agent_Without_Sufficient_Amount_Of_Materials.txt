@@ -1,0 +1,5 @@
+AddTile t1 normal
+AddScientist s1 t1
+AddGeneticCodeToScientist stun s1
+CraftAgent s1 stunCode
+ScientistInfo s1

@@ -1,0 +1,19 @@
+Scientist ID: s1
+Gear:
+axe 0
+Genetic codes:
+Agents:
+Active agents:
+Material in pocket: 0
+Material in bag: 0
+
+s2 Scientist ID doesn't exists
+Scientist ID: s3
+Gear:
+Genetic codes:
+Agents:
+Active agents:
+bearDance 1
+Material in pocket: 0
+Material in bag: 0
+

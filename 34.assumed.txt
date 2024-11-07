@@ -1,0 +1,14 @@
+Scientist ID: s1
+Gear:
+Genetic codes:
+stunCode 3
+Agents:
+Active agents:
+vitus 3
+Material in pocket: 10
+Material in bag: 0
+
+t1	normal	t2,t3	none	s1
+t2	normal	t1	none	none
+t3	normal	t1	none	none
+

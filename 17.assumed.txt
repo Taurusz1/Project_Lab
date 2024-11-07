@@ -1,0 +1,22 @@
+Scientist ID: s1
+Gear:
+axe 1
+axe 1
+axe 1
+Genetic codes:
+Agents:
+Active agents:
+Material in pocket: 0
+Material in bag: 0
+
+Scientist ID: s1
+Gear:
+axe 1
+axe 1
+axe 1
+Genetic codes:
+Agents:
+Active agents:
+Material in pocket: 0
+Material in bag: 0
+

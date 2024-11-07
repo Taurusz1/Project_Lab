@@ -1,0 +1,11 @@
+AddTile t1 normal
+AddTile t2 normal
+SetNeighbours t1 t2
+AddScientist s1 t1
+AddGeneticCodeToScientist vitus s1
+AddMaterialToScientist 10 s1
+AddActiveAgentToScientist stun s1
+CraftAgent s1 vitusCode
+ScientistMoves s1 0
+ScientistInfo s1
+ListAllTiles
